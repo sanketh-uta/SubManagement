@@ -13,7 +13,7 @@ import { auth } from "firebaseui";
 //   .catch(()=>console.log("not connected properly"));
 const backend = 'http://localhost:1010/'
 const firebaseConfig = {
-  apiKey: "AIzaSyDzIgMd8xLQtzIJVKVJep7Pkz4BpONI3bE",
+  //apiKey removed for security reasons
   authDomain: "subscription-management-c5569.firebaseapp.com",
   projectId: "subscription-management-c5569",
   storageBucket: "subscription-management-c5569.firebasestorage.app",
